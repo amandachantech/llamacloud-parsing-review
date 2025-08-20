@@ -188,6 +188,8 @@
 | Scientific Paper | ❌ Better accuracy; legend missing |
 | Technical Document | ❌ Similar to scientific; legend preserved |
 
+**Ranking**: Technical Document > Scientific Paper > Agentic Plus >> Agentic >>> Cost-effective  
+
 **Examples**  
 
 - Original Graph (Google 10-K)  
